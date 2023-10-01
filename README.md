@@ -1,8 +1,13 @@
 <h2 align="center"> MARSHOT Full Stack Engineer </h2>
 
-<h4>Records</h4>
-- 👉 [WeeklyBest 쇼핑몰](https://web-weeklybest-frontend-jvvy2blmeag4p5.sel5.cloudtype.app)
-- 👉 [GymlightCRM](https://web-gymlight-frontend-cgw1f2almhbnknl.sel5.cloudtype.app)
+<h4>Records 💾</h4>
+<div>
+  <span>👉</span>
+  <a href="https://web-weeklybest-frontend-jvvy2blmeag4p5.sel5.cloudtype.app">WeeklyBest 쇼핑몰</a>
+  <br>
+  <span>👉</span>
+  <a href="https://web-gymlight-frontend-cgw1f2almhbnknl.sel5.cloudtype.app">GymlightCRM</a>
+</div>
 
 <h4 align="center">Tech Stacks 🚀</h4>
 
@@ -51,7 +56,7 @@
 <br><br>
 
 <div align="center">
-  ﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marshot9420&langs_count=10&layout=compact&theme=dark](https://github.com/marshot9420/marshot9420)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  ﻿[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jogilsang&langs_count=10&layout=compact&theme=dark)(https://github.com/marshot9420/marshot9420)﻿&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 
 <blockquaote>
