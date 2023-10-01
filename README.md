@@ -56,7 +56,7 @@
 <br><br>
 
 <div align="center">
-  ﻿[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marshot9420&langs_count=10&layout=compact&theme=dark)(https://github.com/marshot9420/marshot9420)﻿&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marshot9420&layout=compact&theme=dark" />
 </div>
 
 <blockquaote>
