@@ -1,12 +1,8 @@
 <h2 align="center"> MARSHOT Full Stack Engineer </h2>
 
-<h4>Records 💾</h4>
+<h4>Description 📝</h4>
 <div>
-  <span>👉</span>
-  <a href="https://web-weeklybest-frontend-jvvy2blmeag4p5.sel5.cloudtype.app">WeeklyBest 쇼핑몰</a>
-  <br>
-  <span>👉</span>
-  <a href="https://web-gymlight-frontend-cgw1f2almhbnknl.sel5.cloudtype.app">GymlightCRM</a>
+  <span>코드 깎는 광대, MARSHOT입니다.</span>
 </div>
 
 <h4 align="center">Tech Stacks 🚀</h4>
