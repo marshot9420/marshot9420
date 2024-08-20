@@ -1,5 +1,3 @@
-<img src='./images/taegeukgi.png'>
-
 <h2 align="center"> MARSHOT Full Stack Engineer </h2>
 
 <h4>Description 📝</h4>
