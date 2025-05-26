@@ -2,7 +2,7 @@
 
 <h4>Description 📝</h4>
 <div>
-  <span>코드 깎는 광대, MARSHOT입니다.</span>
+  <span>MARSHOT Full Stack Engineer입니다.</span>
 </div>
 
 <h4 align="center">Tech Stacks 🚀</h4>
@@ -38,6 +38,7 @@
   </div>
   <div>
     <h6>DB | DevOps</h6>
+    <img src="https://img.shields.io/badge/PostgreSQL-333?style=flat-square&logo=PostgreSQL&logoColor=white&labelColor=4479A1">&nbsp;
     <img src="https://img.shields.io/badge/MySQL-333?style=flat-square&logo=MySQL&logoColor=white&labelColor=4479A1">&nbsp;
     <img src="https://img.shields.io/badge/Docker-333?style=flat-square&logo=Docker&logoColor=white&labelColor=2496ED">&nbsp;
     <img src="https://img.shields.io/badge/Git-333?style=flat-square&logo=git&logoColor=E84D31&labelColor=white">&nbsp;
